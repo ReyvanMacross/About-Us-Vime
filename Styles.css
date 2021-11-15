@@ -38,8 +38,7 @@ html {
   text-align: center;
   background-color: #b0aaca;
   color: white;
-  width: 1380 ;
-  height: 192;
+ 
 }
 
 .container {
@@ -92,4 +91,8 @@ html {
 
 #my{
   zoom: 50%;
+  }
+
+  .container {
+    flex-direction:column ;
   }
